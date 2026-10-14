@@ -24,12 +24,15 @@ Inspired by open-source debloat projects like **OFGB**, completely refactored in
 
 ---
 
-### 🚀 Quick Start (For End Users)
+### 🚀 Quick Start (For End Users — No Build Required)
 
-1. Download or clone this repository.
-2. Double-click **`Disable-Ads.bat`**.
-3. Grant Administrator permissions when prompted.
-4. Select **`[1] Disable Managed Ads & Suggestions`** from the menu.
+1. Download **`WindowsDeBloat-v1.0.0.zip`** from the [latest release](https://github.com/modestustr/RemoveAdsWin11ByPowerShell/releases/latest).
+2. Extract the ZIP file.
+3. Double-click **`Disable-Ads.bat`**.
+4. Grant Administrator permissions when prompted.
+5. Select **`[1] Disable Managed Ads & Suggestions`** from the menu.
+
+You do **not** need Visual Studio, the .NET SDK, or to compile source code. The release ZIP contains everything needed to run the tool.
 
 ---
 
@@ -93,12 +96,15 @@ Windows 10/11 üzerindeki belirli reklamları, önerileri ve web arama entegrasy
 
 ---
 
-### 🚀 Hızlı Başlangıç (Son Kullanıcılar İçin)
+### 🚀 Hızlı Başlangıç (Son Kullanıcılar İçin — Derleme Gerekmez)
 
-1. Proje dosyalarını bilgisayarınıza indirin.
-2. **`Disable-Ads.bat`** dosyasına çift tıklayın.
-3. Çıkan ekranda Yönetici iznini onaylayın.
-4. Açılan menüden **`[1]`** seçeneğini seçip **Enter** tuşuna basın.
+1. **`WindowsDeBloat-v1.0.0.zip`** dosyasını [son sürüm sayfasından](https://github.com/modestustr/RemoveAdsWin11ByPowerShell/releases/latest) indirin.
+2. ZIP dosyasını çıkarın.
+3. **`Disable-Ads.bat`** dosyasına çift tıklayın.
+4. Çıkan ekranda Yönetici iznini onaylayın.
+5. Açılan menüden **`[1]`** seçeneğini seçip **Enter** tuşuna basın.
+
+Visual Studio'ya, .NET SDK'ya veya kaynak kodu derlemeye **gerek yoktur**. Sürüm ZIP'i programı çalıştırmak için gereken dosyaları içerir.
 
 ---
 
